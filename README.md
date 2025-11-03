@@ -1,15 +1,15 @@
 # Welcome to the Official Static IK Rig!
 
-This is a simple run down on how everything works.
-I will try my best to explain everything in detail, but if it's confusing I recommend asking someone in our discord server for help!
+This is a simple rundown on how everything works.
+I will try my best to explain everything in detail, but if it's confusing, I recommend asking someone in our Discord server for help!
 (https://discord.gg/staticvr)
 
-<img width="900" height="322" alt="image" src="https://github.com/user-attachments/assets/f5cdbb7b-927d-4ad2-937f-9ed829812746" />
+<img width="900" height="322" alt="Screenshot 2025-11-03 170809" src="https://github.com/user-attachments/assets/014eb8fe-ec6c-4f72-b1c3-137138ec96f1" />
 
 ---
 ## DISCLAMER:
 
-1. Ignore all of the PNG textures inside the folder with the rig, these need to be in the same folder as the rig otherwise you wont have any mouth or eye lid textures.
+1. Ignore all of the PNG textures inside the folder with the rig, these need to be in the same folder as the rig otherwise you won't have any mouth or eyelid textures.
 2. PLEASE read the LICENSE.txt and README.txt before doing anything with the rig.
 3. This does NOT come with cosmetics, we may release a selection of cosmetics in the future.
 
@@ -22,10 +22,10 @@ I will try my best to explain everything in detail, but if it's confusing I reco
 
 Now you can select the boxes on the hands and move them around!
 
-When rotating and moving the head, you will need to shift + select the ears with it, they are separate objects so they wont move together.
+When rotating and moving the head, you will need to shift + select the ears with it, they are separate objects, so they wont move together.
 
 **Tip:**
-For curling the fingers is to select the 3 bones in a finger and press the link button at the top of the screen, then select "Individual Origins".
+For curling the fingers, select the 3 bones in a finger and press the link button at the top of the screen, then select "Individual Origins".
 
 ---
 ## HOW TO CHANGE THE COLOR OF THE CHARACTER:
@@ -37,11 +37,11 @@ For curling the fingers is to select the 3 bones in a finger and press the link 
 5. Expand Surface and then expand Base Color.
 6. Click on the first node of the Color Ramp.
 7. Under that, press the solid color bar and select what color you would like.
-8. Do the same with the second node but make sure its a lighter color otherwise it will look weird.
-<img width="312" height="133" alt="image" src="https://github.com/user-attachments/assets/f6f47bd0-62f4-4af2-a001-1ad9efca4f11" />
+8. Do the same with the second node, but make sure it's a lighter color, otherwise it will look weird.
+<img width="312" height="133" alt="Screenshot 2025-11-03 170705" src="https://github.com/user-attachments/assets/2fbc2fa3-7808-4124-a7d2-c3e7c3ab232c" />
 
 **Tip:**
-Make sure the first node is a darker color and the second node is a lighter color otherwise it will look weird.
+Make sure the first node is a darker color and the second node is a lighter color, otherwise it will look weird.
 
 ---
 ## HOW TO CHANGE THE FACE EXPRESSIONS:
@@ -49,12 +49,11 @@ Make sure the first node is a darker color and the second node is a lighter colo
 1. Enter Object Mode.
 2. Select the 3 Squares next to the head.
 3. While selected, enter Pose Mode.
-4. Click on one of the 3 squares and drag them up, this will change the mouth or eyes.
+4. Click on one of the 3 squares and drag it up, this will change the mouth or eyes.
 
-<img width="734" height="350" alt="image" src="https://github.com/user-attachments/assets/099ea02b-5863-4183-b072-df42d6e6109c" />
+<img width="734" height="350" alt="Screenshot 2025-11-03 170522" src="https://github.com/user-attachments/assets/b911834d-ecc7-4f3e-a70c-50951d29876c" />
 
-
-The first square controls the mouth textures, the other 2 control the eye lids.
+The first square controls the mouth textures, the other 2 control the eyelids.
 
 You can move the eyes and mouth around while in pose mode, select the red lines representing a face and move them around, you can scale them too.
 
