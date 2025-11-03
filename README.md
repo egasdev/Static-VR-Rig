@@ -65,7 +65,7 @@ by Patchwork Studios
 
 Website / Community: https://discord.gg/staticvr
 
-License: [MIT License](./LICENSE.txt)
+License: [MIT License](./LICENSE)
 
 Description:
 ExpressiveStaticIKRig is a freely available rig and asset for Blender,
